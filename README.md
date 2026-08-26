@@ -1,8 +1,8 @@
 # Olá, eu sou Lucas Janoca 👋
 
-Sou **desenvolvedor web** e criador da **InfoTech.io**, com foco em transformar ideias e necessidades reais em sites, sistemas e soluções digitais funcionais.
+Sou **desenvolvedor web** e criador da **InfoTech.io**, com foco em transformar necessidades reais em sites, sistemas e soluções digitais funcionais.
 
-Atualmente venho desenvolvendo projetos próprios e para negócios reais, trabalhando principalmente com interfaces responsivas, autenticação, persistência de dados, áreas administrativas, segurança e publicação em produção.
+Trabalho principalmente com interfaces responsivas, autenticação, áreas administrativas, bancos de dados, automações de publicação, segurança e integração de frontend com Supabase.
 
 ## 🚀 Projeto principal
 
@@ -16,31 +16,43 @@ Plataforma oficial da InfoTech.io para apresentação de serviços, projetos e a
 ## 💼 Projetos em destaque
 
 ### [RASS Studio](https://rass.infotech-io.com.br/)
-Site e sistema web desenvolvido para um negócio real de unhas e joias, com catálogo, agendamento, área administrativa e experiência otimizada para celular.
+Site e sistema web para um negócio real de unhas e joias, com catálogo, agendamento, área administrativa e experiência otimizada para celular.
 
 ### [Plexo — Pesquisa Pré-Lançamento](https://plexoplace.com.br/)
-Pesquisa pública e responsiva com persistência de respostas no Supabase, controles de segurança e publicação automatizada pelo GitHub Pages.
+Pesquisa pública responsiva com persistência no Supabase, painel administrativo, controles de acesso e publicação automatizada.
 
 ### [Painel de Produção](https://lucasjanoca.github.io/Produ-o/)
-Projeto web voltado ao acompanhamento de produção operacional.
+Painel operacional para TV com produção diária/semanal, rankings, histórico, avisos e área administrativa protegida por autenticação e RLS.
 
-### Projetos de evolução
-Também mantenho meus primeiros projetos públicos, como **Criando Uma Aventura** e **Trabalho da Escola**, para registrar minha evolução no desenvolvimento web ao longo do tempo.
+### PADOKA DA VILLA
+Plataforma em desenvolvimento para integrar experiência do cliente, pedidos, operação interna, estoque, produção e base de PDV em uma única arquitetura web.
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e práticas
 
 - HTML5 e CSS3
 - JavaScript
-- Supabase
+- Supabase / PostgreSQL
 - GitHub e GitHub Pages
-- Design responsivo
+- GitHub Actions
+- Design responsivo e mobile-first
 - Autenticação e controle de acesso
+- Row Level Security (RLS)
 - Integração de frontend com banco de dados
-- SEO, PWA e boas práticas de segurança web
+- SEO, PWA e metadados sociais
+- Organização de ambientes `main` / `dev`
+- Auditoria de segurança e publicação automatizada
 
-## 🎯 O que estou construindo
+## 🔐 Como organizo os projetos
 
-Meu objetivo é continuar evoluindo na criação de **sites, sistemas web e automações**, priorizando soluções que tenham utilidade prática, boa experiência de uso e organização profissional.
+Nos projetos ativos, procuro separar a versão publicada da versão de desenvolvimento, evitar credenciais privadas no repositório e validar alterações com automações antes da publicação.
+
+## 📚 Projetos de evolução
+
+Também mantenho alguns dos meus primeiros projetos públicos para registrar minha evolução no desenvolvimento web ao longo do tempo.
+
+## 🎯 Em evolução
+
+Meu objetivo é continuar criando **sites, sistemas web e automações** com utilidade prática, boa experiência de uso e uma base técnica cada vez mais profissional.
 
 ## 🌐 Contato
 
