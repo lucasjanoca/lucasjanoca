@@ -16,7 +16,7 @@ Plataforma oficial da InfoTech.io para apresentação de serviços, projetos e a
 ## 💼 Projetos em destaque
 
 ### [RASS Studio](https://rass.infotech-io.com.br/)
-Site e sistema web para um negócio real de unhas e joias, com catálogo, agendamento, área administrativa e experiência otimizada para celular.
+Site e sistema web para um estúdio de body piercing e joias, com catálogo de serviços, agendamento, área administrativa e experiência otimizada para celular.
 
 ### [Plexo — Pesquisa Pré-Lançamento](https://plexoplace.com.br/)
 Pesquisa pública responsiva com persistência no Supabase, painel administrativo, controles de acesso e publicação automatizada.
